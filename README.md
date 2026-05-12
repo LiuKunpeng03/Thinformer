@@ -19,7 +19,7 @@
 
 \* Equal contribution. † Corresponding author.
 
-**IJCAI 2026**
+<!-- **IJCAI 2026** -->
 
 In this paper, we propose ThinFormer, a dynamic and efficient framework tailored for object detection in HRW shots. ThinFormer leverages sparsity in both the spatial domain and the channel domain, the latter enabled by a novel local feed-forward network (local FFN) that exploits the duality between spatial and channel representations. To adapt to varying levels of scene complexity, we introduce a dynamic sparsity ratio estimator, trained in a self-supervised manner, which guides selective activation of channels based on semantic richness.
 
