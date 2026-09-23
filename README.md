@@ -109,3 +109,26 @@ python ./inference.py ./configs/Thinformer.py /path/to/your/checkpoint result.pk
 ### Supplementary Material
 
 The supplementary material of our paper is available at `supplementary_material.pdf`.
+
+---
+
+## Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@inproceedings{ijcai2026p405,
+  title     = {ThinFormer: Channel Sparse Transformer for Efficient HRW Object Detection},
+  author    = {Li, Wenxi and Liu, Kunpeng and Liu, Moran and Liu, Shuyang and Lyu, Chenyang and Lin, Haozhe and Guo, Yuchen},
+  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on
+               Artificial Intelligence, {IJCAI-26}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Diego Calvanese},
+  pages     = {3639--3647},
+  year      = {2026},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2026/405},
+  url       = {https://doi.org/10.24963/ijcai.2026/405},
+}
+```
