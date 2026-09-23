@@ -112,7 +112,7 @@ The supplementary material of our paper is available at `supplementary_material.
 
 ---
 
-## Citation
+### Citation
 
 If you find this work useful, please cite our paper:
 
