@@ -6,7 +6,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
-<img src="https://img.shields.io/badge/License-CC%20BY%204.0-green.svg" alt="License">
+<img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
 <img src="https://img.shields.io/github/stars/LiuKunpeng03/ThinFormer?color=yellow" alt="Stars">
 <img src="https://img.shields.io/github/issues/LiuKunpeng03/ThinFormer?color=red" alt="Issues">
 <img src="https://img.shields.io/badge/python-3.9-purple.svg" alt="Python">
